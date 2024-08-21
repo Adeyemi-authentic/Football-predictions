@@ -1,0 +1,301 @@
+,date,venue,result,gf,ga,opponent,xg,xga,sh,sot,pk,pkatt,season,team,form,form(dec),form(%)
+1,8/15/2021,Away,L,0,1,Tottenham,1.9,1.3,18,4,0,0,2022,Manchester City,0/1,0,0
+2,8/21/2021,Home,W,5,0,Norwich City,2.7,0.1,16,4,0,0,2022,Manchester City, 1/2,0.5,50
+3,8/28/2021,Home,W,5,0,Arsenal,3.8,0.1,25,10,0,0,2022,Manchester City, 2/3,0.666666667,66.66666667
+4,9/11/2021,Away,W,1,0,Leicester City,2.9,0.8,25,8,0,0,2022,Manchester City, 3/4,0.75,75
+6,9/18/2021,Home,D,0,0,Southampton,1.1,0.4,16,1,0,0,2022,Manchester City,3.5/5,0.7,70
+8,9/25/2021,Away,W,1,0,Chelsea,1.7,0.3,15,3,0,0,2022,Manchester City,4.5/6,0.75,75
+10,10/3/2021,Away,D,2,2,Liverpool,1.2,1,12,3,0,0,2022,Manchester City, 5/7,0.714285714,71.42857143
+11,10/16/2021,Home,W,2,0,Burnley,1.9,1,16,6,0,0,2022,Manchester City, 3/4,0.75,75
+13,10/23/2021,Away,W,4,1,Brighton,3.9,1.3,23,13,0,0,2022,Manchester City, 7/9,0.777777778,77.77777778
+15,10/30/2021,Home,L,0,2,Crystal Palace,1.1,1.1,14,3,0,0,2022,Manchester City, 2/3,0.666666667,66.66666667
+17,11/6/2021,Away,W,2,0,Manchester Utd,2,0.6,16,5,0,0,2022,Manchester City,1,1,100
+18,11/21/2021,Home,W,3,0,Everton,2.3,0.3,17,7,0,0,2022,Manchester City,1,1,100
+20,11/28/2021,Home,W,2,1,West Ham,2.1,0.2,19,8,0,0,2022,Manchester City,1,1,100
+21,12/1/2021,Away,W,2,1,Aston Villa,0.9,0.9,17,7,0,0,2022,Manchester City,1,1,100
+22,12/4/2021,Away,W,3,1,Watford,3.6,0.7,26,12,0,0,2022,Manchester City,1,1,100
+1,8/14/2021,Home,W,3,0,Crystal Palace,0.9,0.3,13,6,0,0,2022,Chelsea,1,1,100
+2,8/22/2021,Away,W,2,0,Arsenal,2.9,0.3,22,5,0,0,2022,Chelsea,1,1,100
+3,8/28/2021,Away,D,1,1,Liverpool,0.8,2.6,6,2,0,0,2022,Chelsea,2.5/3,0.833333333,83.33333333
+4,9/11/2021,Home,W,3,0,Aston Villa,1.1,1.5,12,4,0,0,2022,Chelsea,3.5/4,0.875,87.5
+6,9/19/2021,Away,W,3,0,Tottenham,1.9,0.7,20,9,0,0,2022,Chelsea,4.5/5,0.9,90
+8,9/25/2021,Home,L,0,1,Manchester City,0.3,1.7,5,0,0,0,2022,Chelsea,4.5/6,0.75,75
+10,10/2/2021,Home,W,3,1,Southampton,3.6,1.3,20,9,0,0,2022,Chelsea,5.5/7,0.785714286,78.57142857
+11,10/16/2021,Away,W,1,0,Brentford,0.3,1.6,5,1,0,0,2022,Chelsea,6.5/8,0.8125,81.25
+13,10/23/2021,Home,W,7,0,Norwich City,3.2,0.2,22,12,1,1,2022,Chelsea,7.5/9,0.833333333,83.33333333
+15,10/30/2021,Away,W,3,0,Newcastle Utd,2.1,0.3,18,5,1,1,2022,Chelsea,8.5/10,0.85,85
+17,11/6/2021,Home,D,1,1,Burnley,2.2,1,25,4,0,0,2022,Chelsea, 1/2,0.5,50
+18,11/20/2021,Away,W,3,0,Leicester City,2.4,0.4,16,7,0,0,2022,Chelsea,1.5/2,0.75,75
+20,11/28/2021,Home,D,1,1,Manchester Utd,2.9,0.7,23,5,1,1,2022,Chelsea,2.0/3,0.666666667,66.66666667
+21,12/1/2021,Away,W,2,1,Watford,1.3,1,8,4,0,0,2022,Chelsea,3.0/4,0.75,75
+22,12/4/2021,Away,L,2,3,West Ham,1.2,1.8,19,7,0,0,2022,Chelsea,3.0/5,0.6,60
+0,8/13/2021,Away,L,0,2,Brentford,1.4,1.3,22,4,0,0,2022,Arsenal,0/1,0,0
+1,8/22/2021,Home,L,0,2,Chelsea,0.3,2.9,6,3,0,0,2022,Arsenal,0/2,0,0
+3,8/28/2021,Away,L,0,5,Manchester City,0.1,3.8,1,0,0,0,2022,Arsenal,0/3,0/3,#VALUE!
+4,9/11/2021,Home,W,1,0,Norwich City,2.8,0.6,30,6,0,0,2022,Arsenal, 1/4,0.25,25
+5,9/18/2021,Away,W,1,0,Burnley,1.2,1.3,13,3,0,0,2022,Arsenal, 2/5,0.4,40
+7,9/26/2021,Home,W,3,1,Tottenham,0.8,1,12,7,0,0,2022,Arsenal, 1/2,0.5,50
+8,10/2/2021,Away,D,0,0,Brighton,0.5,1.4,8,2,0,0,2022,Arsenal,3.5/7,0.5,50
+9,10/18/2021,Home,D,2,2,Crystal Palace,1.4,0.9,17,6,0,0,2022,Arsenal, 1/2,0.5,50
+10,10/22/2021,Home,W,3,1,Aston Villa,2.7,1.4,21,8,0,1,2022,Arsenal, 5/9,0.555555556,55.55555556
+12,10/30/2021,Away,W,2,0,Leicester City,0.9,1.2,9,5,0,0,2022,Arsenal, 3/5,0.6,60
+13,11/7/2021,Home,W,1,0,Watford,1.7,0.7,13,5,0,1,2022,Arsenal,1,1,100
+14,11/20/2021,Away,L,0,4,Liverpool,0.4,4.3,5,3,0,0,2022,Arsenal, 1/2,0.5,50
+15,11/27/2021,Home,W,2,0,Newcastle Utd,2,0.2,24,6,0,0,2022,Arsenal, 2/3,0.666666667,66.66666667
+16,12/2/2021,Away,L,2,3,Manchester Utd,1.5,1.9,17,7,0,0,2022,Arsenal, 1/2,0.5,50
+17,12/6/2021,Away,L,1,2,Everton,1.2,1,10,3,0,0,2022,Arsenal, 2/5,0.4,40
+0,8/15/2021,Home,W,1,0,Manchester City,1.3,1.9,14,2,0,0,2022,Tottenham Hotspur,1,1,100
+2,8/22/2021,Away,W,1,0,Wolves,1.5,1.4,7,5,1,1,2022,Tottenham Hotspur,1,1,100
+4,8/29/2021,Home,W,1,0,Watford,0.9,0.6,15,8,0,0,2022,Tottenham Hotspur,1,1,100
+5,9/11/2021,Away,L,0,3,Crystal Palace,0.1,2.4,2,1,0,0,2022,Tottenham Hotspur, 3/4,0.75,75
+7,9/19/2021,Home,L,0,3,Chelsea,0.7,1.9,9,2,0,0,2022,Tottenham Hotspur, 3/5,0.6,60
+9,9/26/2021,Away,L,1,3,Arsenal,1,0.8,10,4,0,0,2022,Tottenham Hotspur, 1/2,0.5,50
+11,10/3/2021,Home,W,2,1,Aston Villa,1.7,1.1,17,7,0,0,2022,Tottenham Hotspur, 4/7,0.571428571,57.14285714
+12,10/17/2021,Away,W,3,2,Newcastle Utd,1.6,0.5,14,4,0,0,2022,Tottenham Hotspur, 5/8,0.625,62.5
+14,10/24/2021,Away,L,0,1,West Ham,0.7,1.2,7,4,0,0,2022,Tottenham Hotspur, 5/9,0.555555556,55.55555556
+16,10/30/2021,Home,L,0,3,Manchester Utd,0.7,1.2,9,0,0,0,2022,Tottenham Hotspur, 1/2,0.5,50
+18,11/7/2021,Away,D,0,0,Everton,0.8,0.5,8,0,0,0,2022,Tottenham Hotspur, 1/2,0.5,50
+19,11/21/2021,Home,W,2,1,Leeds United,2,1.1,13,4,0,0,2022,Tottenham Hotspur,1.5/2,0.75,75
+21,12/2/2021,Home,W,2,0,Brentford,2.4,0.3,11,6,0,0,2022,Tottenham Hotspur,2.5/3,0.833333333,83.33333333
+22,12/5/2021,Home,W,3,0,Norwich City,1.7,1.6,17,7,0,0,2022,Tottenham Hotspur,3.5/4,0.875,87.5
+24,12/19/2021,Home,D,2,2,Liverpool,3.4,1.5,11,5,0,0,2022,Tottenham Hotspur, 4/5,0.8,80
+0,8/14/2021,Home,W,5,1,Leeds United,1.5,0.6,16,8,0,0,2022,Manchester United,1,1,100
+1,8/22/2021,Away,D,1,1,Southampton,1.4,0.8,15,3,0,0,2022,Manchester United,1.5/2,0.75,75
+2,8/29/2021,Away,W,1,0,Wolves,0.6,1.8,10,3,0,0,2022,Manchester United,2.5/3,0.833333333,83.33333333
+3,9/11/2021,Home,W,4,1,Newcastle Utd,2.1,0.7,21,6,0,0,2022,Manchester United,3.5/4,0.875,87.5
+5,9/19/2021,Away,W,2,1,West Ham,1.8,1.6,17,10,0,0,2022,Manchester United,4.5/5,0.9,90
+7,9/25/2021,Home,L,0,1,Aston Villa,2.3,1.2,27,4,0,1,2022,Manchester United,4.5/6,0.75,75
+9,10/2/2021,Home,D,1,1,Everton,0.9,1.1,13,6,0,0,2022,Manchester United, 5/7,0.714285714,71.42857143
+10,10/16/2021,Away,L,2,4,Leicester City,1.4,3.1,18,6,0,0,2022,Manchester United, 5/8,0.625,62.5
+12,10/24/2021,Home,L,0,5,Liverpool,1.5,3.8,12,3,0,0,2022,Manchester United, 5/9,0.555555556,55.55555556
+13,10/30/2021,Away,W,3,0,Tottenham,1.2,0.7,10,4,0,0,2022,Manchester United, 3/5,0.6,60
+15,11/6/2021,Home,L,0,2,Manchester City,0.6,2,5,1,0,0,2022,Manchester United,0,0,0
+16,11/20/2021,Away,L,1,4,Watford,1.6,2.2,9,3,0,0,2022,Manchester United,0/2,0,0
+18,11/28/2021,Away,D,1,1,Chelsea,0.7,2.9,3,2,0,0,2022,Manchester United,0.5/3,0.166666667,16.66666667
+19,12/2/2021,Home,W,3,2,Arsenal,1.9,1.5,13,9,1,1,2022,Manchester United,1.5/4,0.375,37.5
+20,12/5/2021,Home,W,1,0,Crystal Palace,1.1,0.9,17,3,0,0,2022,Manchester United,2.5/5,0.5,50
+1,9/20/2020,Away,L,2,4,Leicester City,1.9,1.4,17,5,0,0,2021,Burnley,0,0,0
+5,10/3/2020,Away,L,1,3,Newcastle Utd,0.6,2,10,3,0,0,2021,Burnley,0,0,0
+6,10/19/2020,Away,D,0,0,West Brom,1.1,1,9,4,0,0,2021,Burnley,0.5/3,0.166666667,16.66666667
+7,10/26/2020,Home,L,0,1,Tottenham,0.6,0.8,12,3,0,0,2021,Burnley,0.5/4,0.125,12.5
+8,10/31/2020,Home,L,0,3,Chelsea,0.4,1.4,5,0,0,0,2021,Burnley,0.5/5,0.1,10
+9,11/6/2020,Away,D,0,0,Brighton,0.3,1.3,4,1,0,0,2021,Burnley, 1/6,0.166666667,16.66666667
+10,11/23/2020,Home,W,1,0,Crystal Palace,1.6,1.4,10,5,0,0,2021,Burnley, 2/7,0.285714286,28.57142857
+11,11/28/2020,Away,L,0,5,Manchester City,0.4,2.8,9,1,0,0,2021,Burnley, 1/4,0.25,25
+12,12/5/2020,Home,D,1,1,Everton,0.8,1.7,8,3,0,0,2021,Burnley,2.5/9,0.277777778,27.77777778
+13,12/13/2020,Away,W,1,0,Arsenal,0.9,1.5,10,2,0,0,2021,Burnley,3.5/10,0.35,35
+14,12/17/2020,Away,D,0,0,Aston Villa,0.4,2,6,4,0,0,2021,Burnley, 1/2,0.5,50
+15,12/21/2020,Home,W,2,1,Wolves,1.8,1.4,10,4,0,0,2021,Burnley,1.5/2,0.75,75
+16,12/27/2020,Away,L,0,1,Leeds United,1.1,1.8,14,6,0,0,2021,Burnley,1.5/3,0.5,50
+17,12/29/2020,Home,W,1,0,Sheffield Utd,0.8,0.4,5,3,0,0,2021,Burnley,2.5/4,0.625,62.5
+19,1/12/2021,Home,L,0,1,Manchester Utd,0.9,1.2,11,0,0,0,2021,Burnley,2.5/5,0.5,50
+0,9/14/2020,Home,L,1,3,Chelsea,1.4,1.2,13,3,0,0,2021,Brighton and Hove Albion,0,0,0
+2,9/20/2020,Away,W,3,0,Newcastle Utd,1.6,0.5,12,5,1,1,2021,Brighton and Hove Albion, 1/2,0.5,50
+4,9/26/2020,Home,L,2,3,Manchester Utd,2.4,1.1,17,3,1,1,2021,Brighton and Hove Albion, 1/3,0.333333333,33.33333333
+6,10/3/2020,Away,L,2,4,Everton,1.2,1.8,11,3,0,0,2021,Brighton and Hove Albion, 1/4,0.25,25
+7,10/18/2020,Away,D,1,1,Crystal Palace,1.1,0.8,17,3,0,0,2021,Brighton and Hove Albion,1.5/5,0.3,30
+8,10/26/2020,Home,D,1,1,West Brom,0.7,0.6,5,3,0,0,2021,Brighton and Hove Albion, 1/3,0.333333333,33.33333333
+9,11/1/2020,Away,L,1,2,Tottenham,0.4,1.8,6,2,0,0,2021,Brighton and Hove Albion, 2/7,0.285714286,28.57142857
+10,11/6/2020,Home,D,0,0,Burnley,1.3,0.3,19,3,0,0,2021,Brighton and Hove Albion,2.5/8,0.3125,31.25
+11,11/21/2020,Away,W,2,1,Aston Villa,1.3,1.5,7,3,0,0,2021,Brighton and Hove Albion,3.5/9,0.388888889,38.88888889
+12,11/28/2020,Home,D,1,1,Liverpool,2.1,0.5,9,2,1,2,2021,Brighton and Hove Albion, 2/5,0.4,40
+13,12/7/2020,Home,L,1,2,Southampton,2.1,1.1,11,3,1,1,2021,Brighton and Hove Albion,0,0,0
+14,12/13/2020,Away,L,0,3,Leicester City,1.1,1.7,12,4,0,0,2021,Brighton and Hove Albion,0,0,0
+15,12/16/2020,Away,D,0,0,Fulham,0.6,0.8,9,3,0,0,2021,Brighton and Hove Albion,0.5/3,0.166666667,16.66666667
+16,12/20/2020,Home,D,1,1,Sheffield Utd,2.6,0.7,21,4,0,0,2021,Brighton and Hove Albion, 1/4,0.25,25
+17,12/27/2020,Away,D,2,2,West Ham,1.2,1.2,13,4,0,0,2021,Brighton and Hove Albion,1.5/5,0.3,30
+0,9/12/2020,Away,L,0,1,Crystal Palace,0.8,0.7,9,5,0,0,2021,Southampton,0,0,0
+2,9/20/2020,Home,L,2,5,Tottenham,1.5,2.5,13,5,1,1,2021,Southampton,0,0,0
+3,9/26/2020,Away,W,1,0,Burnley,0.6,0.5,5,1,0,0,2021,Southampton, 1/3,0.333333333,33.33333333
+4,10/4/2020,Home,W,2,0,West Brom,1.2,0.1,13,7,0,0,2021,Southampton, 1/2,0.5,50
+5,10/17/2020,Away,D,3,3,Chelsea,2.2,2,13,6,0,0,2021,Southampton,2.5/5,0.5,50
+7,11/1/2020,Away,W,4,3,Aston Villa,0.7,1.8,9,4,0,0,2021,Southampton,3.5/6,0.583333333,58.33333333
+8,11/6/2020,Home,W,2,0,Newcastle Utd,0.9,0.5,15,7,0,0,2021,Southampton,4.5/7,0.642857143,64.28571429
+9,11/23/2020,Away,D,1,1,Wolves,1.5,1.9,7,2,0,0,2021,Southampton, 5/8,0.625,62.5
+10,11/29/2020,Home,L,2,3,Manchester Utd,0.4,2.3,10,5,0,0,2021,Southampton, 5/9,0.555555556,55.55555556
+11,12/7/2020,Away,W,2,1,Brighton,1.1,2.1,9,2,1,1,2021,Southampton, 3/5,0.6,60
+12,12/13/2020,Home,W,3,0,Sheffield Utd,1.4,0.4,16,6,0,0,2021,Southampton,1,1,100
+13,12/16/2020,Away,D,1,1,Arsenal,1.1,0.7,13,3,0,0,2021,Southampton,1.5/2,0.75,75
+14,12/19/2020,Home,L,0,1,Manchester City,1,1.1,9,3,0,0,2021,Southampton,1.5/3,0.5,50
+15,12/26/2020,Away,D,0,0,Fulham,0.1,0.9,3,2,0,0,2021,Southampton, 1/2,0.5,50
+16,12/29/2020,Home,D,0,0,West Ham,0.5,0.9,8,3,0,0,2021,Southampton,2.5/5,0.5,50
+0,9/12/2020,Home,W,1,0,Southampton,0.7,0.8,6,3,0,0,2021,Crystal Palace,1,1,100
+2,9/19/2020,Away,W,3,1,Manchester Utd,1.6,1.1,13,4,1,1,2021,Crystal Palace,1,1,100
+3,9/26/2020,Home,L,1,2,Everton,0.4,2,8,1,0,0,2021,Crystal Palace, 2/3,0.666666667,66.66666667
+4,10/3/2020,Away,L,0,4,Chelsea,0.1,2.5,4,0,0,0,2021,Crystal Palace, 1/2,0.5,50
+5,10/18/2020,Home,D,1,1,Brighton,0.8,1.1,0,0,1,1,2021,Crystal Palace,2.5/5,0.5,50
+6,10/24/2020,Away,W,2,1,Fulham,2.6,1.1,14,10,0,0,2021,Crystal Palace,3.5/6,0.583333333,58.33333333
+7,10/30/2020,Away,L,0,2,Wolves,0.6,1.3,11,2,0,0,2021,Crystal Palace,3.5/7,0.5,50
+8,11/7/2020,Home,W,4,1,Leeds United,0.9,0.8,10,6,0,0,2021,Crystal Palace,4.5/8,0.5625,56.25
+10,11/27/2020,Home,L,0,2,Newcastle Utd,1,1.5,12,3,0,0,2021,Crystal Palace,4.5/9,0.5,50
+11,12/6/2020,Away,W,5,1,West Brom,1.8,0.8,18,7,0,0,2021,Crystal Palace,5.5/10,0.55,55
+12,12/13/2020,Home,D,1,1,Tottenham,1.2,1.1,16,5,0,0,2021,Crystal Palace, 1/2,0.5,50
+13,12/16/2020,Away,D,1,1,West Ham,0.9,0.3,8,3,0,0,2021,Crystal Palace, 1/2,0.5,50
+14,12/19/2020,Home,L,0,7,Liverpool,0.3,2.1,5,3,0,0,2021,Crystal Palace, 1/3,0.333333333,33.33333333
+15,12/26/2020,Away,L,0,3,Aston Villa,1.1,3.5,13,6,0,0,2021,Crystal Palace, 1/4,0.25,25
+16,12/28/2020,Home,D,1,1,Leicester City,0.5,1.8,4,1,0,0,2021,Crystal Palace,1.5/5,0.3,30
+0,9/14/2020,Away,W,2,0,Sheffield Utd,1.1,0.6,11,4,0,0,2021,Wolverhampton Wanderers,1,1,100
+2,9/21/2020,Home,L,1,3,Manchester City,1,1.9,10,1,0,0,2021,Wolverhampton Wanderers, 1/2,0.5,50
+4,10/4/2020,Home,W,1,0,Fulham,1.2,0.7,14,5,0,0,2021,Wolverhampton Wanderers, 2/3,0.666666667,66.66666667
+5,10/19/2020,Away,W,1,0,Leeds United,0.5,1.6,7,3,0,0,2021,Wolverhampton Wanderers, 3/4,0.75,75
+6,10/25/2020,Home,D,1,1,Newcastle Utd,0.7,0.2,16,4,0,0,2021,Wolverhampton Wanderers,3.5/5,0.7,70
+7,10/30/2020,Home,W,2,0,Crystal Palace,1.3,0.6,15,5,0,0,2021,Wolverhampton Wanderers,4.5/6,0.75,75
+8,11/8/2020,Away,L,0,1,Leicester City,0.5,1.9,7,2,0,0,2021,Wolverhampton Wanderers,4.5/7,0.642857143,64.28571429
+9,11/23/2020,Home,D,1,1,Southampton,1.9,1.5,20,9,0,0,2021,Wolverhampton Wanderers, 5/8,0.625,62.5
+10,11/29/2020,Away,W,2,1,Arsenal,1.4,1.2,11,5,0,0,2021,Wolverhampton Wanderers, 2/3,0.666666667,66.66666667
+11,12/6/2020,Away,L,0,4,Liverpool,0.5,1.2,9,3,0,0,2021,Wolverhampton Wanderers, 3/5,0.6,60
+12,12/12/2020,Home,L,0,1,Aston Villa,1.2,1.1,16,7,0,0,2021,Wolverhampton Wanderers,0,0,0
+13,12/15/2020,Home,W,2,1,Chelsea,0.5,1.3,12,4,0,0,2021,Wolverhampton Wanderers, 1/2,0.5,50
+14,12/21/2020,Away,L,1,2,Burnley,1.4,1.8,14,2,1,1,2021,Wolverhampton Wanderers, 1/3,0.333333333,33.33333333
+15,12/27/2020,Home,D,1,1,Tottenham,1,0.4,11,6,0,0,2021,Wolverhampton Wanderers,1.5/4,0.375,37.5
+16,12/29/2020,Away,L,0,1,Manchester Utd,0.4,1.3,9,5,0,0,2021,Wolverhampton Wanderers,1.5/5,0.3,30
+0,9/12/2020,Away,W,2,0,West Ham,1.5,1.1,16,3,0,0,2021,Newcastle United,1,1,100
+2,9/20/2020,Home,L,0,3,Brighton,0.5,1.6,6,0,0,0,2021,Newcastle United, 1/2,0.5,50
+4,9/27/2020,Away,D,1,1,Tottenham,1,2.3,5,0,1,1,2021,Newcastle United,1.5/3,0.5,50
+6,10/3/2020,Home,W,3,1,Burnley,2,0.6,9,4,1,1,2021,Newcastle United,2.5/4,0.625,62.5
+7,10/17/2020,Home,L,1,4,Manchester Utd,0.5,2.7,7,4,0,0,2021,Newcastle United,2.5/5,0.5,50
+8,10/25/2020,Away,D,1,1,Wolves,0.2,0.7,5,2,0,0,2021,Newcastle United, 1/2,0.5,50
+9,11/1/2020,Home,W,2,1,Everton,2.5,1.2,9,3,1,1,2021,Newcastle United, 4/7,0.571428571,57.14285714
+10,11/6/2020,Away,L,0,2,Southampton,0.5,0.9,4,2,0,0,2021,Newcastle United, 1/2,0.5,50
+11,11/21/2020,Home,L,0,2,Chelsea,0.6,1.6,8,1,0,0,2021,Newcastle United, 4/9,0.444444444,44.44444444
+12,11/27/2020,Away,W,2,0,Crystal Palace,1.5,1,14,7,0,0,2021,Newcastle United, 1/2,0.5,50
+13,12/12/2020,Home,W,2,1,West Brom,1.1,0.6,12,6,0,0,2021,Newcastle United,1,1,100
+15,12/19/2020,Home,D,1,1,Fulham,1.4,0.7,10,4,1,1,2021,Newcastle United,1.5/2,0.75,75
+17,12/26/2020,Away,L,0,2,Manchester City,0.3,1.8,8,2,0,0,2021,Newcastle United,1.5/3,0.5,50
+18,12/30/2020,Home,D,0,0,Liverpool,0.3,1.1,8,2,0,0,2021,Newcastle United, 1/2,0.5,50
+19,1/3/2021,Home,L,1,2,Leicester City,0.2,0.9,8,2,0,0,2021,Newcastle United, 2/5,0.4,40
+1,9/21/2020,Home,W,1,0,Sheffield Utd,1,0.9,18,2,0,0,2021,Aston Villa,1,1,100
+5,10/4/2020,Home,W,7,2,Liverpool,3.9,1.8,18,11,0,0,2021,Aston Villa,1,1,100
+6,10/18/2020,Away,W,1,0,Leicester City,0.6,0.5,10,4,0,0,2021,Aston Villa,1,1,100
+7,10/23/2020,Home,L,0,3,Leeds United,1.2,3.6,12,3,0,0,2021,Aston Villa, 3/4,0.75,75
+8,11/1/2020,Home,L,3,4,Southampton,1.8,0.7,18,9,1,1,2021,Aston Villa, 3/5,0.6,60
+9,11/8/2020,Away,W,3,0,Arsenal,1.7,1.5,17,5,0,0,2021,Aston Villa, 2/3,0.666666667,66.66666667
+10,11/21/2020,Home,L,1,2,Brighton,1.5,1.3,15,4,0,0,2021,Aston Villa, 4/7,0.571428571,57.14285714
+11,11/30/2020,Away,L,1,2,West Ham,2.6,0.6,15,6,0,1,2021,Aston Villa, 1/2,0.5,50
+12,12/12/2020,Away,W,1,0,Wolves,1.1,1.2,11,1,1,1,2021,Aston Villa, 5/9,0.555555556,55.55555556
+13,12/17/2020,Home,D,0,0,Burnley,2,0.4,27,6,0,0,2021,Aston Villa,5.5/10,0.55,55
+14,12/20/2020,Away,W,3,0,West Brom,2.3,0,19,9,1,1,2021,Aston Villa,1,1,100
+15,12/26/2020,Home,W,3,0,Crystal Palace,3.5,1.1,21,10,0,0,2021,Aston Villa,1,1,100
+16,12/28/2020,Away,D,1,1,Chelsea,0.8,1.4,10,2,0,0,2021,Aston Villa,2.5/3,0.833333333,83.33333333
+17,1/1/2021,Away,L,1,2,Manchester Utd,1.6,1.9,15,5,0,0,2021,Aston Villa,2.5/4,0.625,62.5
+19,1/20/2021,Away,L,0,2,Manchester City,0.8,4.3,11,4,0,0,2021,Aston Villa,2.5/5,0.5,50
+0,9/13/2020,Away,W,1,0,Tottenham,1.4,1,15,5,0,0,2021,Everton,1,1,100
+4,9/26/2020,Away,W,2,1,Crystal Palace,2,0.4,9,4,1,1,2021,Everton,1,1,100
+6,10/3/2020,Home,W,4,2,Brighton,1.8,1.2,11,6,0,0,2021,Everton,1,1,100
+7,10/17/2020,Home,D,2,2,Liverpool,1.3,2.2,11,5,0,0,2021,Everton,3.5/4,0.875,87.5
+8,10/25/2020,Away,L,0,2,Southampton,0.4,0.7,6,2,0,0,2021,Everton,3.5/5,0.7,70
+9,11/1/2020,Away,L,1,2,Newcastle Utd,1.2,2.5,15,4,0,0,2021,Everton,3.5/6,0.583333333,58.33333333
+,11/7/2020,Home,L,1,3,Manchester Utd,0.6,1.6,7,1,0,0,2021,Everton,3.5/7,0.5,50
+11,11/22/2020,Away,W,3,2,Fulham,1.6,2,9,7,0,0,2021,Everton,4.5/8,0.5625,56.25
+12,11/28/2020,Home,L,0,1,Leeds United,1.6,2.9,17,9,0,0,2021,Everton,4.5/9,0.5,50
+13,12/5/2020,Away,D,1,1,Burnley,1.7,0.8,13,6,0,0,2021,Everton, 1/2,0.5,50
+14,12/12/2020,Home,W,1,0,Chelsea,1.3,0.9,8,3,1,1,2021,Everton,1,1,100
+15,12/16/2020,Away,W,2,0,Leicester City,1.2,0.7,11,6,0,0,2021,Everton,1,1,100
+16,12/19/2020,Home,W,2,1,Arsenal,0.8,1.4,9,2,0,0,2021,Everton,1,1,100
+18,12/26/2020,Away,W,1,0,Sheffield Utd,0.7,1.2,7,3,0,0,2021,Everton,1,1,100
+19,1/1/2021,Home,L,0,1,West Ham,0.3,1.3,10,2,0,0,2021,Everton, 4/5,0.8,80
+0,9/12/2020,Away,L,3,4,Liverpool,0.6,3.3,6,3,0,0,2021,Leeds United,0,0,0
+2,9/19/2020,Home,W,4,3,Fulham,1.7,1.8,9,6,1,1,2021,Leeds United, 1/2,0.5,50
+3,9/27/2020,Away,W,1,0,Sheffield Utd,1.6,1.6,18,9,0,0,2021,Leeds United, 2/3,0.666666667,66.66666667
+4,10/3/2020,Home,D,1,1,Manchester City,1.7,1.5,12,7,0,0,2021,Leeds United,2.5/4,0.625,62.5
+6,10/23/2020,Away,W,3,0,Aston Villa,3.6,1.2,28,9,0,0,2021,Leeds United,3.5/5,0.7,70
+7,11/2/2020,Home,L,1,4,Leicester City,1,3.5,11,5,0,0,2021,Leeds United,3.5/6,0.583333333,58.33333333
+8,11/7/2020,Away,L,1,4,Crystal Palace,0.8,0.9,9,3,0,0,2021,Leeds United,3.5/7,0.5,50
+9,11/22/2020,Home,D,0,0,Arsenal,2.5,0.9,25,4,0,0,2021,Leeds United, 1/2,0.5,50
+10,11/28/2020,Away,W,1,0,Everton,2.9,1.6,22,6,0,0,2021,Leeds United, 5/9,0.555555556,55.55555556
+11,12/5/2020,Away,L,1,3,Chelsea,1.3,3.7,9,3,0,0,2021,Leeds United, 1/2,0.5,50
+12,12/11/2020,Home,L,1,2,West Ham,1.8,1.9,12,6,1,1,2021,Leeds United,0,0,0
+13,12/16/2020,Home,W,5,2,Newcastle Utd,2.8,0.9,25,9,0,0,2021,Leeds United, 1/2,0.5,50
+14,12/20/2020,Away,L,2,6,Manchester Utd,1.7,4,18,5,0,0,2021,Leeds United, 1/3,0.333333333,33.33333333
+15,12/27/2020,Home,W,1,0,Burnley,1.8,1.1,10,3,1,1,2021,Leeds United, 1/2,0.5,50
+16,12/29/2020,Away,W,5,0,West Brom,0.9,0.6,14,6,0,0,2021,Leeds United, 2/5,0.4,40
+0,9/12/2020,Home,L,0,2,Newcastle Utd,1.1,1.5,15,3,0,0,2021,West Ham United,0,0,0
+2,9/19/2020,Away,L,1,2,Arsenal,1.9,1.4,15,3,0,0,2021,West Ham United,0,0,0
+4,9/27/2020,Home,W,4,0,Wolves,1.6,0.5,15,7,0,0,2021,West Ham United, 1/3,0.333333333,33.33333333
+7,10/18/2020,Away,D,3,3,Tottenham,2.1,1.2,13,4,0,0,2021,West Ham United,1.5/4,0.375,37.5
+8,10/24/2020,Home,D,1,1,Manchester City,0.5,1.1,6,2,0,0,2021,West Ham United, 2/5,0.4,40
+9,10/31/2020,Away,L,1,2,Liverpool,0.5,1.8,4,3,0,0,2021,West Ham United, 1/3,0.333333333,33.33333333
+10,11/7/2020,Home,W,1,0,Fulham,1.3,1.6,16,7,0,0,2021,West Ham United, 3/7,0.428571429,42.85714286
+11,11/22/2020,Away,W,1,0,Sheffield Utd,2.2,0.7,15,3,0,0,2021,West Ham United, 1/2,0.5,50
+12,11/30/2020,Home,W,2,1,Aston Villa,0.6,2.6,6,2,0,0,2021,West Ham United, 5/9,0.555555556,55.55555556
+13,12/5/2020,Home,L,1,3,Manchester Utd,2.2,1.9,19,6,0,0,2021,West Ham United, 1/2,0.5,50
+14,12/11/2020,Away,W,2,1,Leeds United,1.9,1.8,19,7,0,0,2021,West Ham United,1,1,100
+15,12/16/2020,Home,D,1,1,Crystal Palace,0.3,0.9,9,2,0,0,2021,West Ham United,1.5/2,0.75,75
+16,12/21/2020,Away,L,0,3,Chelsea,0.5,2.1,6,0,0,0,2021,West Ham United,1.5/3,0.5,50
+17,12/27/2020,Home,D,2,2,Brighton,1.2,1.2,11,4,0,0,2021,West Ham United, 1/2,0.5,50
+18,12/29/2020,Away,D,0,0,Southampton,0.9,0.5,7,3,0,0,2021,West Ham United,2.5/5,0.5,50
+0,9/13/2020,Away,W,3,0,West Brom,2.2,0.5,11,5,2,2,2021,Leicester City,1,1,100
+1,9/20/2020,Home,W,4,2,Burnley,1.4,1.9,12,6,0,0,2021,Leicester City,1,1,100
+3,9/27/2020,Away,W,5,2,Manchester City,2.6,0.9,4,4,3,3,2021,Leicester City,1,1,100
+5,10/18/2020,Home,L,0,1,Aston Villa,0.5,0.6,11,5,0,0,2021,Leicester City, 3/4,0.75,75
+7,10/25/2020,Away,W,1,0,Arsenal,1.2,0.9,6,3,0,0,2021,Leicester City, 4/5,0.8,80
+9,11/2/2020,Away,W,4,1,Leeds United,3.5,1,9,7,1,1,2021,Leicester City, 5/6,0.833333333,83.33333333
+11,11/8/2020,Home,W,1,0,Wolves,1.9,0.5,8,1,1,2,2021,Leicester City, 6/7,0.857142857,85.71428571
+12,11/22/2020,Away,L,0,3,Liverpool,1.3,3.7,11,4,0,0,2021,Leicester City, 3/4,0.75,75
+14,11/30/2020,Home,L,1,2,Fulham,0.9,1.8,17,4,0,0,2021,Leicester City, 2/3,0.666666667,66.66666667
+16,12/6/2020,Away,W,2,1,Sheffield Utd,1.5,0.3,13,4,0,0,2021,Leicester City, 2/3,0.666666667,66.66666667
+18,12/13/2020,Home,W,3,0,Brighton,1.7,1.1,16,6,0,0,2021,Leicester City,1,1,100
+19,12/16/2020,Home,L,0,2,Everton,0.7,1.2,14,2,0,0,2021,Leicester City, 1/2,0.5,50
+20,12/20/2020,Away,W,2,0,Tottenham,1.5,1.1,16,3,1,1,2021,Leicester City, 2/3,0.666666667,66.66666667
+21,12/26/2020,Home,D,2,2,Manchester Utd,1.2,2.2,10,1,0,0,2021,Leicester City,2.5/4,0.625,62.5
+22,12/28/2020,Away,D,1,1,Crystal Palace,1.8,0.5,16,2,0,1,2021,Leicester City, 3/5,0.6,60
+1,9/12/2020,Home,W,4,3,Leeds United,3.3,0.6,20,4,2,2,2021,Liverpool,1,1,100
+2,9/20/2020,Away,W,2,0,Chelsea,2.6,1,17,5,0,0,2021,Liverpool,1,1,100
+4,9/28/2020,Home,W,3,1,Arsenal,3.2,1.2,21,9,0,0,2021,Liverpool,1,1,100
+6,10/4/2020,Away,L,2,7,Aston Villa,1.8,3.9,14,8,0,0,2021,Liverpool, 3/4,0.75,75
+7,10/17/2020,Away,D,2,2,Everton,2.2,1.3,22,8,0,0,2021,Liverpool,3.5/5,0.7,70
+9,10/24/2020,Home,W,2,1,Sheffield Utd,2.5,1.5,17,5,0,0,2021,Liverpool,4.5/6,0.75,75
+11,10/31/2020,Home,W,2,1,West Ham,1.8,0.5,8,2,1,1,2021,Liverpool,5.5/7,0.785714286,78.57142857
+13,11/8/2020,Away,D,1,1,Manchester City,1.4,1.6,9,2,1,1,2021,Liverpool, 3/4,0.75,75
+14,11/22/2020,Home,W,3,0,Leicester City,3.7,1.3,24,12,0,0,2021,Liverpool, 7/9,0.777777778,77.77777778
+16,11/28/2020,Away,D,1,1,Brighton,0.5,2.1,6,2,0,0,2021,Liverpool,7.5/10,0.75,75
+20,12/13/2020,Away,D,1,1,Fulham,2.1,1.5,11,5,1,1,2021,Liverpool, 1/2,0.5,50
+21,12/16/2020,Home,W,2,1,Tottenham,1.2,1.3,17,11,0,0,2021,Liverpool,1.5/2,0.75,75
+22,12/19/2020,Away,W,7,0,Crystal Palace,2.1,0.3,14,7,0,0,2021,Liverpool,2.5/3,0.833333333,83.33333333
+23,12/27/2020,Home,D,1,1,West Brom,1.6,0.5,17,2,0,0,2021,Liverpool, 3/4,0.75,75
+24,12/30/2020,Away,D,0,0,Newcastle Utd,1.1,0.3,11,4,0,0,2021,Liverpool,3.5/5,0.7,70
+0,8/14/2021,Home,L,0,3,Liverpool,1.4,2,15,4,0,0,2022,Norwich City,0,0,0
+1,8/21/2021,Away,L,0,5,Manchester City,0.1,2.7,1,0,0,0,2022,Norwich City,0,0,0
+3,8/28/2021,Home,L,1,2,Leicester City,1.6,1.3,13,3,1,1,2022,Norwich City,0,0,0
+4,9/11/2021,Away,L,0,1,Arsenal,0.6,2.8,10,1,0,0,2022,Norwich City,0,0,0
+5,9/18/2021,Home,L,1,3,Watford,1,1.8,12,4,0,0,2022,Norwich City,0,0,0
+7,9/25/2021,Away,L,0,2,Everton,0.6,2.1,10,2,0,0,2022,Norwich City,0,0,0
+8,10/2/2021,Away,D,0,0,Burnley,0.5,1,10,2,0,0,2022,Norwich City,0.5/7,0.071428571,7.142857143
+9,10/16/2021,Home,D,0,0,Brighton,1,0.9,15,2,0,0,2022,Norwich City, 1/8,0.125,12.5
+10,10/23/2021,Away,L,0,7,Chelsea,0.2,3.2,3,1,0,0,2022,Norwich City, 1/9,0.111111111,11.11111111
+11,10/31/2021,Home,L,1,2,Leeds United,0.9,1,14,3,0,0,2022,Norwich City,0,0,0
+12,11/6/2021,Away,W,2,1,Brentford,1.4,2.2,8,4,1,1,2022,Norwich City,1,1,100
+13,11/20/2021,Home,W,2,1,Southampton,0.5,1.1,8,4,0,0,2022,Norwich City,1,1,100
+15,11/30/2021,Away,D,1,1,Newcastle Utd,1.4,1.1,16,6,0,0,2022,Norwich City,2.5/3,0.833333333,83.33333333
+16,12/5/2021,Away,L,0,3,Tottenham,1.6,1.7,11,1,0,0,2022,Norwich City,2.5/4,0.625,62.5
+17,12/11/2021,Home,L,0,1,Manchester Utd,0.9,2,11,5,0,0,2022,Norwich City,2.5/5,0.5,50
+0,8/14/2021,Home,W,3,2,Aston Villa,1.2,1.1,13,7,0,0,2022,Watford,1,1,100
+1,8/21/2021,Away,L,0,2,Brighton,0.9,1.5,10,1,0,0,2022,Watford, 1/2,0.5,50
+3,8/29/2021,Away,L,0,1,Tottenham,0.6,0.9,9,1,0,0,2022,Watford, 1/3,0.333333333,33.33333333
+4,9/11/2021,Home,L,0,2,Wolves,0.2,2.1,6,2,0,0,2022,Watford, 1/4,0.25,25
+5,9/18/2021,Away,W,3,1,Norwich City,1.8,1,13,8,0,0,2022,Watford, 2/5,0.4,40
+7,9/25/2021,Home,D,1,1,Newcastle Utd,1.1,2.5,16,5,0,0,2022,Watford,2.5/6,0.416666667,41.66666667
+9,10/16/2021,Home,L,0,5,Liverpool,0.5,3.6,6,2,0,0,2022,Watford,2.5/7,0.357142857,35.71428571
+10,10/23/2021,Away,W,5,2,Everton,3.2,2.3,20,8,0,0,2022,Watford,3.5/8,0.4375,43.75
+11,10/30/2021,Home,L,0,1,Southampton,1.2,2,10,4,0,0,2022,Watford,3.5/9,0.388888889,38.88888889
+12,11/7/2021,Away,L,0,1,Arsenal,0.7,1.7,7,1,0,0,2022,Watford,3.5/10,0.35,35
+13,11/20/2021,Home,W,4,1,Manchester Utd,2.2,1.6,19,7,0,1,2022,Watford,1,1,100
+14,11/28/2021,Away,L,2,4,Leicester City,2.7,2.2,16,4,1,1,2022,Watford, 1/2,0.5,50
+15,12/1/2021,Home,L,1,2,Chelsea,1,1.3,13,6,0,0,2022,Watford, 1/3,0.333333333,33.33333333
+16,12/4/2021,Home,L,1,3,Manchester City,0.7,3.6,11,4,0,0,2022,Watford, 1/4,0.25,25
+17,12/10/2021,Away,L,1,2,Brentford,0.6,1.9,6,2,0,0,2022,Watford, 1/5,0.2,20
+0,8/13/2021,Home,W,2,0,Arsenal,1.3,1.4,8,3,0,0,2022,Brentford,1,1,100
+1,8/21/2021,Away,D,0,0,Crystal Palace,0.9,0.6,14,3,0,0,2022,Brentford,1.5/2,0.75,75
+3,8/28/2021,Away,D,1,1,Aston Villa,1.1,0.6,9,2,0,0,2022,Brentford, 2/3,0.666666667,66.66666667
+4,9/11/2021,Home,L,0,1,Brighton,0.7,0.2,7,1,0,0,2022,Brentford, 1/2,0.5,50
+7,9/25/2021,Home,D,3,3,Liverpool,1.9,2.5,12,3,0,0,2022,Brentford,2.5/5,0.5,50
+8,10/3/2021,Away,W,2,1,West Ham,1.2,1.3,13,6,0,0,2022,Brentford,3.5/6,0.583333333,58.33333333
+9,10/16/2021,Home,L,0,1,Chelsea,1.6,0.3,17,5,0,0,2022,Brentford,3.5/7,0.5,50
+10,10/24/2021,Home,L,1,2,Leicester City,1.2,1.5,15,5,0,0,2022,Brentford,3.5/8,0.4375,43.75
+12,10/30/2021,Away,L,1,3,Burnley,0.7,2.2,12,4,0,0,2022,Brentford,3.5/9,0.388888889,38.88888889
+13,11/6/2021,Home,L,1,2,Norwich City,2.2,1.4,19,7,0,0,2022,Brentford,3.5/10,0.35,35
+14,11/20/2021,Away,D,3,3,Newcastle Utd,0.8,1.6,10,3,0,0,2022,Brentford, 1/2,0.5,50
+15,11/28/2021,Home,W,1,0,Everton,1.2,0.9,5,3,1,1,2022,Brentford,1.5/2,0.75,75
+16,12/2/2021,Away,L,0,2,Tottenham,0.3,2.4,6,2,0,0,2022,Brentford,1.5/3,0.5,50
+17,12/5/2021,Away,D,2,2,Leeds United,1,1.2,9,3,0,0,2022,Brentford, 1/2,0.5,50
+18,12/10/2021,Home,W,2,1,Watford,1.9,0.6,13,4,1,1,2022,Brentford, 3/5,0.6,60
